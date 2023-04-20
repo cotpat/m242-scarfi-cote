@@ -1,0 +1,4 @@
+https://github.com/m5stack/M5Core2
+lvgl/lv_arduino@^3.0.1
+fastled/FastLED@^3.5.0
+https://github.com/knolleary/pubsubclient
